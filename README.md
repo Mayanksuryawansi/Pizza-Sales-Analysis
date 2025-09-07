@@ -26,7 +26,6 @@ The dataset contains the following fields:
 - `order_time`
 - `unit_price`
 
-> 📝 *Note: This dataset is entirely fictional and intended for learning and demonstration purposes.*
 
 ---
 
@@ -66,4 +65,4 @@ This project demonstrates how SQL and BI tools can be used together to deliver p
 
 ---
 
-Feel free to explore the code, queries, and dashboard included in this repository!
+
